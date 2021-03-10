@@ -1,4 +1,4 @@
-# Catatan
+# Aplikasi Data Penduduk (Lurah, RW, RT, dan Warga)
 ## Instalasi:
 - Clone repositori ini
 - Pada folder `htdocs`, buat folder `penduduk`
